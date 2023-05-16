@@ -1,0 +1,3 @@
+<div class="important text">{{english}}</div>
+<br>
+{{type:japanese_kana}}

@@ -1,0 +1,13 @@
+{{#kanjis}}
+<div class="important japanese">{{kanjis}}</div>
+<br>
+{{type:japanese_kana}}
+{{/kanjis}}
+
+{{^kanjis}}
+<div class="important japanese">{{japanese_kana}}</div>
+{{/kanjis}}
+
+<br><br><br>
+
+{{sound}}

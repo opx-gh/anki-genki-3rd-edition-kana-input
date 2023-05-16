@@ -1,0 +1,13 @@
+{{FrontSide}}
+
+<br><br><br>
+
+<div class="caption">Meaning:</div>
+<div class="important text">{{english}}</div>
+
+{{#kanji_meaning}}
+<br><br>
+<div class="caption">Kanji Meaning:</div>
+<div class="default japanese">{{kanjis}}</div>
+<div class="default text">{{kanji_meaning}}</div>
+{{/kanji_meaning}}
